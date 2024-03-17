@@ -1,5 +1,5 @@
 //MÉTODOS ARRAY Aula 14-03-2024
-//Método ForEache - Executa uma função para cada item do array
+//Método ForEach - Executa uma função para cada item do array
 //Sintaxe: array.forEach
 
 //forEache 
