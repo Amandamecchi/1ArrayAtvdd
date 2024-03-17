@@ -10,16 +10,16 @@ let alunos = [
     {nome: 'Júlia', idade: 15},
     {nome: 'Caio', idade: 16},
     {nome: 'Anna', idade: 12},
-    {nome: 'Carlos', idade:18}
+    {nome: 'Carlos', idade:18},
 ]
 //Testes:
 
 alunos.forEach(function(item, index,){
-    console.log(item)
-    console.log(index)
-})
+    console.log(item);
+    console.log(index);
+});
 
 alunos.forEach(function(item, index){
-    if(item.idade < 18)
-    console.log("o alunos ${item.nome}, posição ${index} ainda não atingiu a maior idade")
-})
+    if(item.idade < 18);
+    console.log("o alunos ${item.nome}, posição ${index} ainda não atingiu a maior idade");
+});
